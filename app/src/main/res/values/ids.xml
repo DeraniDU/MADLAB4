@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="delete_all" type="id"/>
+    <item name="taskname_input" type="id" />
+    <item name="taskpriority_input" type="id" />
+    <item name="taskdate_input" type="id" />
+    <item name="task_id_txt" type="id" />
+    <item name="task_name_txt" type="id" />
+    <item name="task_priority_txt" type="id" />
+    <item name="task_date_txt" type="id" />
+    <item name="name_input" type="id" />
+    <item name="priorty_input" type="id" />
+    <item name="time_input" type="id" />
+</resources>
